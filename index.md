@@ -15,3 +15,5 @@ Go to:
 [Schedule](resources/schedule.md)
 
 [Instructor Information](resources/instructor.md)
+
+[Grading](resources/grading.md)
