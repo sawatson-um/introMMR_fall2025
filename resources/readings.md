@@ -1,6 +1,6 @@
 ---
 title: Course Readings
-layout: template
+layout: Cayman
 filename: readings.md
 ---
 Course readings page
