@@ -10,3 +10,5 @@ Go to:
 [Syllabus](resources/syllabus.md)
 
 [Course Readings](resources/readings.md)
+
+[Schedule](resources/schedule.md)
