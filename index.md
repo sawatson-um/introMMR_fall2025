@@ -6,5 +6,7 @@ filename: index.md
 This is the homepage
 
 Go to:
+
 [Syllabus](syllabus.md)
+
 [Course Readings](readings.md)
