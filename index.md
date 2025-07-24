@@ -7,6 +7,6 @@ This is the homepage
 
 Go to:
 
-[Syllabus](syllabus.md)
+[Syllabus](resources/syllabus.md)
 
-[Course Readings](readings.md)
+[Course Readings](resources/readings.md)
